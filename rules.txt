@@ -1,0 +1,18 @@
+# *Guide*
+
+#charge - gets "energy" to use other attacks
+#shield - shields you from any attack except megaball
+#fireball - requires 1 charge to use and you beat the opponent if they use charge
+#iceball - requires 2 charges to use and it can kill fireball and charge
+#megaball - requires 5 charges and when you use it you instantly win 
+#unless your opponent uses megaball too 
+
+#click the "run" button to start the game|
+#what the computer does is COMPLETELY randomized
+#it will keep asking you for input (where you enter your move) and it keeps going 
+#until someone wins 
+#the numbers are how many charges you and the computer have
+
+#tell me if you find any bugs
+
+# Made by Dhruv Sheth 

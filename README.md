@@ -1,2 +1,2 @@
 # fireballgame
-Fireball game against bot I coded :)
+Fireball game against a bot I coded :)
